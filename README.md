@@ -1,5 +1,5 @@
 # EatNowApp
-This repository has been created to list and share every sheets we made using Java on AndroidStudio, in order to build our firsts inferfaces. 
+This repository has been created to list and share every sheets we made using Java on AndroidStudio, in order to build our firsts inferfaces. So far we have built 2 interfaces : Login Screen and First Menu.
 
 Screenshots incoming.
 
