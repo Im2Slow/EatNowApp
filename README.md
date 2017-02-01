@@ -5,5 +5,6 @@ Seems that we can't get any further without our database being online.
 
 Last updated 01/02/17
 
-https://cloud.githubusercontent.com/assets/24966428/22531198/d0eeb19c-e8df-11e6-9bcc-201ad9f2f235.png
+Login screen : https://cloud.githubusercontent.com/assets/24966428/22531198/d0eeb19c-e8df-11e6-9bcc-201ad9f2f235.png
+Menu screen : 
 
