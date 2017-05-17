@@ -1,3 +1,5 @@
+WE DROPPED OUT THE APP PROJECT FOR NOW OR FOREVER WHO KNOWS
+
 # EatNowApp
 
 As a part of our 2nd year's project at ESILV engineering school, we plan to build an app dedicated to Android allowing our students/teachers to order food near our school's location which is : La Défense, FRANCE.
